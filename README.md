@@ -10,7 +10,6 @@ This project implements a Music Recommendation System that suggests songs based 
 - [Model Description](#model-description)
 - [Contributing](#contributing)
 
-- 
 ## Introduction
 With the growing number of songs available online, it becomes difficult for users to find music that matches their tastes. This music recommendation system is designed to make personalized song suggestions using a dataset of user listening history and song features.
 
@@ -18,7 +17,7 @@ With the growing number of songs available online, it becomes difficult for user
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/music-recommendation-system.git
+    git clone https://github.com/yGeekKwame/music-recommendation-system.git
     cd music-recommendation-system
     ```
 
